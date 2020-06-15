@@ -2,8 +2,9 @@
 Coder RSA
 https://en.wikipedia.org/wiki/RSA_(cryptosystem)
 
-![alt text](https://github.com/qqlexa/CoderRSA/blob/master/console.jpg
-![alt text](https://github.com/qqlexa/CoderRSA/blob/master/file.jpg
+![](https://github.com/qqlexa/CoderRSA/blob/master/console.jpg?raw=true)
+
+![](https://github.com/qqlexa/CoderRSA/blob/master/file.jpg?raw=true)
 
 11.05.2020
 Programming of algorithmic structures
